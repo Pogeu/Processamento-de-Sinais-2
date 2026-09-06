@@ -1,0 +1,7 @@
+__pycache__/
+.serena/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+executed_*.ipynb
+tmp/

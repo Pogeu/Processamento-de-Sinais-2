@@ -1,6 +1,5 @@
 numpy
 matplotlib
-Pillow
-scikit-image
+opencv-python
 jupyter
 nbclient
